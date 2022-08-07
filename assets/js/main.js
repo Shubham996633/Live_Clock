@@ -59,14 +59,14 @@ const clockText = () =>{
     textAmPm.innerHTML=ampm
 
     let months=['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-    let weeks=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    let weeks=['Sunday','Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday' ]
 
 
     dateDay.innerHTML=`${day}`
     dateMonth.innerHTML=`${months[month]} ,`
     dateYear.innerHTML=year
 
-    dateWeek.innerHTML=`${weeks[week-1]} , `
+    dateWeek.innerHTML=`${weeks[week]} , `
 
 
 
