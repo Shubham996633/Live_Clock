@@ -1,7 +1,7 @@
 
 # Live_Clock
 
- ### This is a HTML , CSS , JavaScript Project that fetches Real-time time as per your loacation 
+ ### This is a HTML , CSS , JavaScript Project that fetches Real-time time as per your location 
  
  ## To Visit Click Here : <a href="https://shubham996633.github.io/Live_Clock/">Live_Clock</a>
  
